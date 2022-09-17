@@ -1,1 +1,1 @@
-# Calculating-Chemical-Parameters-of-Molecules-using-Huckel-Theory-Simultaneous-Spectrophotometric-
+# Calculating-Chemical-Parameters-and-spectrophotometric-analysis
